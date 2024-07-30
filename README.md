@@ -2,7 +2,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=League+Spartan:wght@100..900&family=Lobster&display=swap" rel="stylesheet">
 
-<h1 style="font-family: 'Kalnia Glaze', serif;"><img src ="https://slackmojis.com/emojis/3643-cool-doge/download" width="300"/> Hey there! Nice to see you.</h1>
+<h1 style="font-family: 'Kalnia Glaze', serif;"><img src ="https://slackmojis.com/emojis/3643-cool-doge/download" width="50"/> Hey there! Nice to see you.</h1>
 
 <h2 style="font-family: 'League Spartan', sans-serif;"> The creature you see below is me 😀</h2>
 
