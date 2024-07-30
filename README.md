@@ -7,7 +7,7 @@
 <h2 style="font-family: 'League Spartan', sans-serif;"> The creature you see below is me 😀</h2>
 
 
-<img src ="https://github.com/ToothlessRider/ToothlessRider/blob/main/background.png"></img>
+<img src ="https://github.com/ToothlessRider/ToothlessRider/blob/main/background.png" style="width:50;"></img>
 
 <h3 style="font-family: 'Kalnia Glaze', serif;">Things I code with</h3>
 <p>
