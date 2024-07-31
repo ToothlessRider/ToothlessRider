@@ -4,25 +4,11 @@
 
 <h1 style="font-family: 'Kalnia Glaze', serif;"><img src ="https://slackmojis.com/emojis/3643-cool-doge/download" width="50"/> Hey there! Nice to see you.</h1>
 
-<h2 style="font-family: 'League Spartan', sans-serif;"> The creature you see below is me 😀</h2>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Funder-construction&psig=AOvVaw12F2irqSSIE8uKj5RNLqQY&ust=1722524714561000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjxxeDG0YcDFQAAAAAdAAAAABAE"></img>
+
+<h3 style="font-family: 'Kalnia Glaze', serif;">I'm currently improving at lightspeed !:</h3>
 
 
-<img src ="https://github.com/ToothlessRider/ToothlessRider/blob/main/background.png"></img>
-
-<h3 style="font-family: 'Kalnia Glaze', serif;">Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  
-</p>
 
 <!--
 **ToothlessRider/ToothlessRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
