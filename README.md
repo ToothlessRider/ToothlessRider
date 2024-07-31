@@ -1,3 +1,3 @@
 # ![doge](https://slackmojis.com/emojis/3643-cool-doge/download) Hi there ! I'm Aaron Augustine
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Funder-construction&psig=AOvVaw166rdMTj_x8S3d6xE_-VW7&ust=1722525339226000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCr5orJ0YcDFQAAAAAdAAAAABAJ" alt="Under Construction" />
+<img src = "https://media0.giphy.com/media/cfGmVRsJI6wq6noGxP/200w.gif?cid=6c09b952xq8s4cpwyt3tn5vqyxp4kvumqhpwk3pp1q2ikjjn&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Under Construction" />
