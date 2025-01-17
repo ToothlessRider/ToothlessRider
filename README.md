@@ -14,9 +14,9 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- Studying DSA, figuring out strings and loops ( not String-theory) and venturing into AI/ML
+- Studying DSA, figuring out strings and loops ( not String-theory) and venturing into Data Science
 ```
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚅𝚒𝚍𝚎𝚘-𝙲𝚊𝚙𝚝𝚒𝚘𝚗𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝**](https://github.com/ToothlessRider/Video-Captioning)  
+- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 **Hostel-Application System**] 
 <!-- - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	<!-- - Join the Armed forces -->
